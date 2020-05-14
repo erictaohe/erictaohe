@@ -1,5 +1,5 @@
 {
-  "homepage": "http://erictaohe.github.io/portfoliosite",
+  "homepage": "http://erictaohe.github.io/",
   "name": "personal",
   "version": "0.1.0",
   "private": true,
@@ -17,11 +17,12 @@
     "react-dom": "^16.13.1",
     "react-mdl": "^2.1.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "yarn": "^1.22.4"
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy":"gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
