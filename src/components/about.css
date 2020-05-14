@@ -1,0 +1,24 @@
+.margins{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    flex-direction: row;
+}
+.header{
+    font-family: "New Century Schoolbook, TeX Gyre Schola, serif";
+}
+.body{
+    font-family: "New Century Schoolbook, TeX Gyre Schola, serif";
+    width: 100%;
+}
+.left{
+    width: 50%;
+}
+.right{
+    width: 50%;
+}
+.eric{
+    width: 80%;
+    margin-top: 30px;
+}

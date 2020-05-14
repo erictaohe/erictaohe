@@ -1,24 +1,28 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import {Layout, Content} from "react-mdl";
+import Main from "./components/main";
+import NavBar from "./components/NavBar";
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div >
+      <Layout  >
+          {/* <Header className = "header-color" title="eric he">
+              <Navigation>
+                  <Link to="/aboutme">about</Link>
+                  <Link to="/resume">resume</Link>
+                  <Link to="/contact">contact</Link>
+              </Navigation>
+          </Header> */}
+          <NavBar />
+
+          <Content> 
+            <Main />
+          </Content>
+      </Layout>
     </div>
   );
 }

@@ -1,0 +1,88 @@
+.nav{
+    display:flex;
+    flex-direction: row;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 20px;
+    height: 50px;
+    padding: 5px
+  
+  }
+.right{
+  flex:1;
+  display:flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.name{
+  display:flex;
+  padding: 5px;
+  font-size: 25px;
+  font-weight: bold;
+  margin-right: 10px;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  margin-top: auto;
+  margin-bottom: auto;
+  
+}
+
+
+.nav .links .pages{
+  display: block;
+}
+.nav .links:hover .pages{
+  opacity:0.5;
+}
+.nav .links:hover .pages:hover{
+  opacity:1;
+}
+
+
+.right .links{
+  flex:1;
+  display:flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.links{
+  flex:1;
+  display:flex;
+  flex-direction: row;
+  text-decoration: none;
+}
+.icons{
+  right: 40px;
+  display:flex;
+  justify-content: flex-end;
+  width: 30%;
+  margin: 5px;
+}
+
+
+.icon{
+  right: 40px;
+  display:flex;
+  justify-content: space-between;
+  width: 30%;
+  margin-left: -5px;
+  margin-right: -5px;
+  font-size: 5em;
+  height: 20px;
+}
+.pages{
+  display:flex;
+  padding: 5px;
+  color: black;
+  font-size: 14px;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+a:visited {
+  color: black;
+}
