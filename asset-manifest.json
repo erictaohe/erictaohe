@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/erictaohe/static/css/main.2514c796.chunk.css",
-    "main.js": "/erictaohe/static/js/main.9769dc8e.chunk.js",
-    "main.js.map": "/erictaohe/static/js/main.9769dc8e.chunk.js.map",
-    "runtime-main.js": "/erictaohe/static/js/runtime-main.b6dd7278.js",
-    "runtime-main.js.map": "/erictaohe/static/js/runtime-main.b6dd7278.js.map",
-    "static/css/2.20155695.chunk.css": "/erictaohe/static/css/2.20155695.chunk.css",
-    "static/js/2.c2d0099e.chunk.js": "/erictaohe/static/js/2.c2d0099e.chunk.js",
-    "static/js/2.c2d0099e.chunk.js.map": "/erictaohe/static/js/2.c2d0099e.chunk.js.map",
-    "index.html": "/erictaohe/index.html",
-    "precache-manifest.01421c5416d62d56f2562c39ade10efb.js": "/erictaohe/precache-manifest.01421c5416d62d56f2562c39ade10efb.js",
-    "service-worker.js": "/erictaohe/service-worker.js",
-    "static/css/2.20155695.chunk.css.map": "/erictaohe/static/css/2.20155695.chunk.css.map",
-    "static/css/main.2514c796.chunk.css.map": "/erictaohe/static/css/main.2514c796.chunk.css.map",
-    "static/js/2.c2d0099e.chunk.js.LICENSE.txt": "/erictaohe/static/js/2.c2d0099e.chunk.js.LICENSE.txt",
-    "static/media/experience.css": "/erictaohe/static/media/yale.441b4458.jpg",
-    "static/media/cisco.jpg": "/erictaohe/static/media/cisco.894a0007.jpg",
-    "static/media/portrait.jpg": "/erictaohe/static/media/portrait.3e5eae6a.jpg",
-    "static/media/profile.jpg": "/erictaohe/static/media/profile.e329fd7d.jpg"
+    "main.css": "/static/css/main.5370cdf3.chunk.css",
+    "main.js": "/static/js/main.88821b7b.chunk.js",
+    "main.js.map": "/static/js/main.88821b7b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.662cc523.js",
+    "runtime-main.js.map": "/static/js/runtime-main.662cc523.js.map",
+    "static/css/2.20155695.chunk.css": "/static/css/2.20155695.chunk.css",
+    "static/js/2.a0681b2a.chunk.js": "/static/js/2.a0681b2a.chunk.js",
+    "static/js/2.a0681b2a.chunk.js.map": "/static/js/2.a0681b2a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3b940df0dfd43d7e6f722bc873cb3c18.js": "/precache-manifest.3b940df0dfd43d7e6f722bc873cb3c18.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.20155695.chunk.css.map": "/static/css/2.20155695.chunk.css.map",
+    "static/css/main.5370cdf3.chunk.css.map": "/static/css/main.5370cdf3.chunk.css.map",
+    "static/js/2.a0681b2a.chunk.js.LICENSE.txt": "/static/js/2.a0681b2a.chunk.js.LICENSE.txt",
+    "static/media/experience.css": "/static/media/yale.441b4458.jpg",
+    "static/media/cisco.jpg": "/static/media/cisco.894a0007.jpg",
+    "static/media/portrait.jpg": "/static/media/portrait.3e5eae6a.jpg",
+    "static/media/profile.jpg": "/static/media/profile.e329fd7d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b6dd7278.js",
+    "static/js/runtime-main.662cc523.js",
     "static/css/2.20155695.chunk.css",
-    "static/js/2.c2d0099e.chunk.js",
-    "static/css/main.2514c796.chunk.css",
-    "static/js/main.9769dc8e.chunk.js"
+    "static/js/2.a0681b2a.chunk.js",
+    "static/css/main.5370cdf3.chunk.css",
+    "static/js/main.88821b7b.chunk.js"
   ]
 }
